@@ -1,0 +1,9 @@
+
+cd jcUtil
+make
+
+cd ../
+make
+
+
+./run

@@ -1,0 +1,32 @@
+
+#=================Description===================#
+The project files are available under a  CC-BY 4.0 license,
+Please refer to the license statement here:
+https://creativecommons.org/licenses/by/4.0/
+
+When you use the code please cite our IEEE Tran. on Vis. CG paper.
+
+
+#=================Description===================#
+#May 14, 2018
+#Henan Zhao, Jian Chen
+#Computer Science and Electrical Engineering
+#University of Maryland, Baltimore County
+
+#=================Description===================#
+This is the second lab-based task for bivariate feature paper. 
+
+Independent variables: 
+	Bivariate features (length-length, color-length and texture-length)
+
+Tasks:
+	Search target
+	Max
+	# of powers
+
+
+#===============Program==================#
+The training and experiment use the same library but different app programs.
+Please see the README in /program
+
+
