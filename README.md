@@ -1,13 +1,14 @@
-#The project files are available under a  CC-BY 4.0 license,
+
+# The project files are available under a  CC-BY 4.0 license,
 Please refer to the license statement here:
 https://creativecommons.org/licenses/by/4.0/
 
 ----------------------------------
-The code is tested on Mac Os X.
+# The code is tested on Mac Os X.
 
 ----------------------------------
 
-To compile:
+# To compile Experiment I
 
 cd Experiment\ I/LabExperiment1/program/experiment/jcUtil
   
@@ -17,7 +18,7 @@ cd Experiment\ I/LabExperiment1/program/experiment/jcUtil
   
   make
   
-To run:
+#To run:
 
 ./main 1 1 
   
@@ -51,7 +52,7 @@ parameter1 is the index in the current block.
 
 Similarily, one may compile the training program by doing the following:
 
-To compile:
+# To compile:
   
   cd Experiment\ I/LabExperiment1/program/training/jcUtil
   
@@ -61,14 +62,14 @@ To compile:
   
   make
  
- To run: 
+# To run: 
   
   ./run
   
 ----------------------------------
-To compile experiment 2, please use the same steps.
+# To compile experiment 2, please use the same steps.
 
-To compile:
+# To compile:
   
   cd Experiment\ II/LabExperiment1/program/experiment/jcUtil
   
@@ -78,11 +79,11 @@ To compile:
   
   make
   
-To run the training code:
+# To run the training code:
   
   ./startTraining 1
 
-To run the formal study code:
+# To run the formal study code:
   
   ./startFormal 1 
    
