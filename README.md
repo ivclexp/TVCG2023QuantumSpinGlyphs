@@ -71,7 +71,7 @@ Similarily, one may compile the training program by doing the following:
 
 # To compile:
   
-  cd Experiment\ II/LabExperiment1/program/experiment/jcUtil
+  cd Experiment\ II/LabExperiment2/program/experiment/jcUtil
   
   make
   
