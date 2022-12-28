@@ -70,14 +70,15 @@ Similarily, one may compile the training program by doing the following:
 # To compile experiment 2, please use the same steps.
 
 # To compile:
+ 
+  cd Experiment\ II/LabExperiment2/BivariateStudy2/jcUtil
   
-  cd Experiment\ II/LabExperiment2/program/experiment/jcUtil
+  make
+  
+  cd ..
   
   make
   
-  cd ../
-  
-  make
   
 # To run the training code:
   
