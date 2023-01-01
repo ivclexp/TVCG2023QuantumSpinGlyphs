@@ -13,11 +13,14 @@ The Experiment II directory contains code for showing Figure 8 (a)-(c) in the sa
 
 In both cases, you will have to run through all of them to see these since the code is for the empirical study and we don’t allow participants to customize the variables.
 
-To cite the paper:
+
+To cite this work:
+
 Henan Zhao, Garnett W. Bryant, Wesley Griffin, Judith E. Terill, and Jian Chen (2023) Evaluating Glyph Design for Showing Large-Magnitude-Range Quantum Spins. IEEE Transactions on Visualization and Computer Graphics, 2023. To appear.
 
 
 A related paper: 
+
 Henan Zhao, Garnett W Bryant, Wesley Griffin, Judith E Terrill, and Jian Chen (2017), Validation of SplitVectors Encoding for Quantitative Visualization of Large-Magnitude-Range Vector Field, 23(6):1691-1705 IEEE Transactions on Visualization and Computer Graphics. 
 DOI: 10.1109/TVCG.2016.2539949. 
 
