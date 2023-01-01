@@ -5,9 +5,15 @@ https://creativecommons.org/licenses/by/4.0/
 
 ----------------------------------
 # The code is tested on Mac Os X.
-
 ----------------------------------
 
+The Experiment I directory contains code for showing Figure 3, (a)-(c).
+
+The Experiment II directory contains code for showing Figure 8 (a)-(c).
+
+In both cases, you will have to run through all of them to see these since the code is for the empirical study and we don’t allow participants to customize the variables.
+
+-----------------------------------
 # To compile Experiment I
 
 cd Experiment\ I/LabExperiment1/program/experiment/jcUtil
